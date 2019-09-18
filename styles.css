@@ -4,7 +4,7 @@
 
 body{
   background-color:hsl(0, 100%, 74%);
-  background-image: url("images/bg-intro-desktop.png");
+  background-image: url("bg-intro-desktop.png");
    Font size: 16px;
   font-family:  'Poppins', sans-serif;
   color: white;
@@ -109,7 +109,7 @@ shadow:
 
 @media (max-width:1028px){
   body{
-    background-image: url("images/bg-intro-mobile.png");
+    background-image: url("bg-intro-mobile.png");
      Font size: 10px;
   }
 
